@@ -1,9 +1,9 @@
 ### Hello everyone👋,  
 
 
-- 🔭 I’m currently working as a **Software Development Engineer 2** at Trellix
-- Interested in C++, System Programming, Windows Application and Driver Development
-- Key Skills : Windows OS Internals, Multithreading, Low Level Design
+- 🔭 I’m currently working as a **Senior Engineer** at Qualcomm
+- Interested in C++, System Programming, Windows Application and Driver Development (WDM, KMDF)
+- Key Skills : Windows OS Internals, Multithreading, Low Level Design, ARM
 
 
 ### Languages and Tools:
